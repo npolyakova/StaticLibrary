@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article class="book-page">
+    <div class="book-header">
+        <img src="{{ page.cover | relative_url }}" alt="{{ page.title }}" class="book-cover-large">
+        <div class="book-info">
+            <h3>{{ page.title }}</h3>
+            <p>Автор: {{ page.author }}</p>
+            {% if page.publishing_house %}<p>Издательство: {{ page.publishing_house }}</p>{% endif %}
+            {% if page.year %}<p>Год издания: {{ page.year }}</p>{% endif %}
+        </div>
+    </div>
+
+    <div class="book-description">
+        {{ content }}
+    </div>
+
+    <p class="back-link"><a href="{{ '/' | relative_url }}">← Вернуться в каталог</a></p>
+</article>

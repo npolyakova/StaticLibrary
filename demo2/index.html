@@ -1,0 +1,25 @@
+---
+layout: default
+title: Моя библиотека
+---
+
+<section id="intro">
+    <div>
+        <p>Это мои любимые книги, <br> а также книги, доставшиеся мне от моих бабушек, дедушек, папы и мамы.</p>
+    </div>
+</section>
+
+<section id="catalog">
+    <h2>Книги:</h2>
+    <div id="books">
+        {% for book in site.books %}
+            <a href="{{ book.url | relative_url }}">
+                <div class="book">
+                    <img src="{{ book.cover | relative_url }}" alt="{{ book.title }}">
+                    <p class="title">{{ book.short_title | default: book.title }}</p>
+                    <p class="author">{{ book.author }}</p>
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+</section>
