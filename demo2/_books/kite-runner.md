@@ -3,7 +3,7 @@ layout: book
 title: Бегущий за ветром
 short_title: Бегущий за ветром
 author: Халед Хоссейни
-cover: /covers/kite-runner.webp
+cover: /covers/beg.jpg
 year: 2003
 publishing_house: Фантом Пресс
 ---

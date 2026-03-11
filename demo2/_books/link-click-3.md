@@ -3,7 +3,7 @@ layout: book
 title: Link Click. Том 3
 short_title: Link Click. Том 3
 author: Bilibili
-cover: /covers/link-click-3.webp
+cover: /covers/link3.webp
 year: 2024
 publishing_house: Истари Комикс
 ---

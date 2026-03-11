@@ -3,7 +3,7 @@ layout: book
 title: Чернобыльская молитва
 short_title: Чернобыльская молитва
 author: Светлана Алексиевич
-cover: /covers/chernobyl-prayer.webp
+cover: /covers/chern.webp
 year: 1997
 publishing_house: Время
 ---

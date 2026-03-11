@@ -3,7 +3,7 @@ layout: book
 title: Link Click. Том 1
 short_title: Link Click. Том 1
 author: Bilibili
-cover: /covers/linkclick1.webp
+cover: /covers/linkclick1.jpeg
 year: 2023
 publishing_house: Истари Комикс
 ---

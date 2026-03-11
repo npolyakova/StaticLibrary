@@ -3,7 +3,7 @@ layout: book
 title: Грокаем алгоритмы
 short_title: Грокаем алгоритмы
 author: Адитья Бхаргава
-cover: /covers/grockaemalgo.webp
+cover: /covers/grockaemalgo.jpeg
 year: 2017
 publishing_house: Питер
 ---
