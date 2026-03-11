@@ -8,7 +8,15 @@ title: Моя библиотека
         <p>Это мои любимые книги, <br> а также книги, доставшиеся мне от моих бабушек, дедушек, папы и мамы.</p>
     </div>
 </section>
-
+<section id="alphabet">
+    <h2>
+        {% assign letters = "А,Б,В,Г,Д,Е,З,К,Л,Н,П,Р,С,Ф,Х,Ц,Ч,Э" | split: "," %}
+        {% for letter in letters %}
+            <a href="/letters/{{ letter | downcase | url_encode }}">{{ letter }}</a>
+            {% unless forloop.last %} {% endunless %}
+        {% endfor %}
+    </h2>
+</section>
 <section id="catalog">
     <h2>Книги:</h2>
     <div id="books">
