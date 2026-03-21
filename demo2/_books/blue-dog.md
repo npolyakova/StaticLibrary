@@ -3,9 +3,10 @@ layout: book
 title: День синей собаки
 short_title: День синей собаки
 author: Серж Брюссоло
-cover: /covers/blue-dog.webp
+cover: /covers/blue-dog.jpg
 year: 1996
 publishing_house: Азбука
+raiting: 5
 ---
 
 Девочка просыпается в странном доме, где время течет иначе, а каждую ночь приходит синяя собака. Мистический хоррор для подростков, где реальность плавится как сон.

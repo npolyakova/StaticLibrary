@@ -3,9 +3,10 @@ layout: book
 title: Еда из аниме
 short_title: Еда из аниме
 author: Диана Олт
-cover: /covers/anime-food.webp
+cover: /covers/eda.jpg
 year: 2022
 publishing_house: Бомбора
+raiting: 4
 ---
 
 Кулинарная книга для фанатов японской анимации. Пошаговые рецепты рамена из «Наруто», онигири из «Тоторо» и сладостей, от которых текут слюнки у любимых персонажей.

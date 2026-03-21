@@ -6,6 +6,7 @@ author: Лю Цысинь
 cover: /covers/endlesslife.webp
 year: 2024
 publishing_house: fanzon
+raiting: 
 ---
 
 Заключительная часть трилогии «Воспоминания о прошлом Земли». 

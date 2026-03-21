@@ -6,6 +6,7 @@ author: Джейвин Л.
 cover: /covers/book.webp
 year: 2022
 publishing_house: КоЛибри
+raiting: 4
 ---
 
 Захватывающее путешествие по истории Китая — от древних династий до наших дней. 
